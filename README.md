@@ -18,13 +18,6 @@ A skilled developer proficient in JavaScript html and css . My primary focus is 
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 
-
-## Frameworks and Libraries
-<p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
-</p>
-
 ## Operating Systems
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
@@ -48,6 +41,7 @@ A skilled developer proficient in JavaScript html and css . My primary focus is 
     <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Replit-DD1200?for-the-badge&logo=Replit&logoColor=white"></a>
 </p>
 
+
 ## Connect with Me
 
 
@@ -57,6 +51,8 @@ A skilled developer proficient in JavaScript html and css . My primary focus is 
   <a href="mailto:rashedr1v@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
 
+## Discord Status
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/734851759515631817.png">
+</p>
 
-[808O](https://github.com/808O)
-Last Edited on - 8/12/2023
